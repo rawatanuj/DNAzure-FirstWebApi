@@ -1,0 +1,9 @@
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\WebApiDockerSample.csprojAssemblyReference.cache
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\WebApiDockerSample.AssemblyInfoInputs.cache
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\WebApiDockerSample.AssemblyInfo.cs
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\WebApiDockerSample.RazorTargetAssemblyInfo.cache
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\staticwebassets\WebApiDockerSample.StaticWebAssets.Manifest.cache
+C:\Users\Anuj-PC\source\repos\WebApiDockerSample\obj\Debug\netcoreapp3.1\staticwebassets\WebApiDockerSample.StaticWebAssets.xml
